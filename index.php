@@ -83,4 +83,3 @@ if(isset($_POST['name'])){ //isset beacuse if somebody doesnt enter his name so 
 !
     </body>
 </html>
-    }
